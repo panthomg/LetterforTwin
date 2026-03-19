@@ -8,7 +8,7 @@ Send letters to you friends! With this project you can send you loved ones a let
   <br/>
   <h1>✉️ LetterforTwin</h1>
   <p><b>Digital letters that feel real.</b></p>
-  <p>A private app for sending thoughtful, custom-designed letters to the people who matter most.</p>
+  <p>An app for sending thoughtful, custom-designed letters to the people who matter most.</p>
 
   <h3><a href="https://lettertwin.netlify.app/">🔗 Try the Live App Here</a></h3>
 
