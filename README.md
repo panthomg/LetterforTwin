@@ -51,7 +51,6 @@ Even though the app looks simple and clean on the outside, there is a lot going 
 ## 🧑‍💻 About the Developer
 Built by **Panth (@itzpanth)**
 * Live App: [lettertwin.netlify.app](https://lettertwin.netlify.app/)
-* Twitter/X: [@itzpanth](https://twitter.com/itzpanth)
 
 ---
 <div align="center">
